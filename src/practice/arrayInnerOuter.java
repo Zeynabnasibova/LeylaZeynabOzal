@@ -18,7 +18,6 @@ public class arrayInnerOuter {
         for(int j = 0; j < sizeOuter; j++) {
             outer[j] = scan.nextInt();
         }
-
         Arrays.sort(inner);
         Arrays.sort(outer);
 
